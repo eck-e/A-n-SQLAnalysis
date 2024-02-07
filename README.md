@@ -15,6 +15,7 @@ The pronunciation of SQL varies across speakers, with some saying "sequel" and s
 
 ## Results
 ![image](https://github.com/eck-e/pronunciationOfSQL/assets/29241079/c26856da-f537-4a5b-89c3-6d6bcfc942f5)
+
 Based on my analysis, the distribution of "an SQL" to "a SQL" (as percentages of total usage) changed over time. The percentage of "an SQL" decreased over time while the percentage of "a SQL" increased over time.
 
 
